@@ -4,4 +4,4 @@ Our support can now be reached via these links:
 - support@unity-ar-gps-location.com
 - https://argpslocation.freshdesk.com/
 
-Thanks for you support!
+Thank you for your support!
