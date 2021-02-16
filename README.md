@@ -1,6 +1,6 @@
 # New support channel
 
-Our new main support channel can be reached via:
+Our support can now be reached via these links:
 - support@unity-ar-gps-location.com
 - https://argpslocation.freshdesk.com/
 
